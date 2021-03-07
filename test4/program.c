@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-double Dodaj();
+double Dodaj(double Skl1, double Skl2);   /* Należało wpisać argumenty funkcji Dodaj z pliku modul.c */
 
 
 int main( )
